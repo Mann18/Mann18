@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mann18&label=Profile%20views&color=07d0df&style=plastic" alt="mann18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mann18" alt="mann18" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working as a [Software Developer](@Sarjen Systems Pvt Ltd.)
@@ -24,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mann18&show_icons=true&locale=en&layout=compact" alt="mann18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mann18&show_icons=true&theme=onedark&title_color=d02525&text_color=281dc3&bg_color=62f4a8&locale=en" alt="mann18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mann18&show_icons=true&title_color=d02525&text_color=281dc3&bg_color=62f4a8&locale=en" alt="mann18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mann18&theme=highcontrast" alt="mann18" /></p>
